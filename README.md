@@ -1,2 +1,2 @@
 # Image_proc_Jcomp_final
-Signature verification J component projectt
+Signature verification J component project
